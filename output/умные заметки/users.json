@@ -1,0 +1,7 @@
+{
+    "admin": {
+        "password": "password123",
+        "notes": {},
+        "is_admin": true
+    }
+}
